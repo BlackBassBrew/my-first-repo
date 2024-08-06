@@ -1,2 +1,3 @@
-var nam = "Mike";
-var greetin = "Hello World!";
+var name = "Mike";
+var greeting = "Hello World!";
+var age = "25";
